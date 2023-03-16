@@ -9,7 +9,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Project title:
-Question and Answer Generation From a Given Book
+Question and Answer Generation From a Given Text
 
 Group Number:6
 20101444	Kazi Al Refat Pranta
