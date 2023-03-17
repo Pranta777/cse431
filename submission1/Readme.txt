@@ -6,8 +6,8 @@ https://www.overleaf.com/read/zmjhqjptwtpp
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
-Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+Public link to the slide:
+https://docs.google.com/presentation/d/1nhy79onqfXHrmsn6NeebY2hlFhxRHlKgHlz-SItRrBo/edit?usp=sharing
 
 Project title:
 Question and Answer Generation From a Given Text
