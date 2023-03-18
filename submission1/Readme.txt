@@ -4,7 +4,7 @@ Overleaf link.
 https://www.overleaf.com/read/zmjhqjptwtpp
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/wdFVMps5lQQ
 
 Public link to the slide:
 https://docs.google.com/presentation/d/1nhy79onqfXHrmsn6NeebY2hlFhxRHlKgHlz-SItRrBo/edit?usp=sharing
