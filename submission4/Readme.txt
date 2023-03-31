@@ -3,7 +3,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/zmjhqjptwtpp
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/vgl8wCg9t5I
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -12,7 +12,7 @@ Paper title:
 Question and Answer Generation From a Given Text
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://github.com/kazialrefatpranta21/cse431/blob/main/submission4/2023_Spring___Question_and_Answer_Generation_From_a_Given_Text%20(3).pdf
 
 Paper submission date (to workshop/conference):
 
