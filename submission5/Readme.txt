@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Question and Answer Generation From a Given Text
+Text-based Q&A: Automated Question Generation and Answering for Enhanced Data Processing
 
 Paper presentation (anyone can view without login):
 https://github.com/kazialrefatpranta21/cse431/blob/main/submission4/2023_Spring___Question_and_Answer_Generation_From_a_Given_Text%20(3).pdf
