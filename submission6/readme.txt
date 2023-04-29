@@ -2,7 +2,7 @@ Overleaf link with edit access to ST, RA and my gmail.
 https://www.overleaf.com/read/zmjhqjptwtpp
 
 Unlisted YouTube video:
-https://www.youtube.com/watch?v=ePCL4XHRV5g
+https://www.youtube.com/watch?v=-BG73w0O3sE
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -11,7 +11,7 @@ Paper title:
 Text-based Q&A: Automated Question Generation and Answering for Enhanced Data Processing
 
 Paper presentation (anyone can view without login):
-https://github.com/kazialrefatpranta21/cse431/blob/main/submission5/2023_Spring___Question_and_Answer_Generation_From_a_Given_Text%20(5).pdf
+https://docs.google.com/presentation/d/1uD3RaX6umFXdmc3czMNSc3q6qPpzIzlUfNpZwvw9yP4/edit?usp=sharing
 Paper submission date (to workshop/conference):
 
 
