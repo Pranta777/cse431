@@ -13,16 +13,18 @@ Text-based Q&A: Automated Question Generation and Answering for Enhanced Data Pr
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1uD3RaX6umFXdmc3czMNSc3q6qPpzIzlUfNpZwvw9yP4/edit?usp=sharing
 Paper submission date (to workshop/conference):
+29th April 2023
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID:1570908753 
 
 
-Conference Name:
+Conference Name: 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC) - R10 HTC 2023 Track X: Machine
 
 
 Conference URL:
-http://confsite/...
+https://www.r10htc2023.org/index.php?p=10
+
 
 Group Number:
 6
