@@ -6,7 +6,7 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=-BG73w0O3sE
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://edas.info/
 
 Paper title:
 Text-based Q&A: Automated Question Generation and Answering for Enhanced Data Processing
