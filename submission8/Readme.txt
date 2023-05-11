@@ -11,6 +11,7 @@ Paper title:
 Identifying the Author: A Comprehensive Review of Authorship Attribution Methods and Their Practical Uses
 
 Paper presentation (anyone can view without login):
+https://github.com/kazialrefatpranta21/cse431/blob/main/submission8/Spring2023_Identifying_the_Author__A_Comprehensive_Review_of_Authorship_Attribution_Methods_and_Their_Practical_Uses%20(1).pdf
 
 Paper submission date (to workshop/conference):
 
