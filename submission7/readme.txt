@@ -6,25 +6,31 @@ Unlisted YouTube video:
 https://www.youtube.com/watch?v=-BG73w0O3sE
 
 Conference submitted paper / paper submission / login Link:
-https://edas.info/
+https://easychair.org/account/signin
+
 
 Paper title:
 Text-based Q&A: Automated Question Generation and Answering for Enhanced Data Processing
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1uD3RaX6umFXdmc3czMNSc3q6qPpzIzlUfNpZwvw9yP4/edit?usp=sharing
+
 Paper submission date (to workshop/conference):
-29th April 2023
+14th May 2023  
 
 
-Paper submission ID:1570908753 
+Paper submission ID:18
 
 
-Conference Name: 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC) - R10 HTC 2023 Track X: Machine
+Conference Name: IEEE International Conference CATS’23
+
 
 
 Conference URL:
-https://www.r10htc2023.org/index.php?p=10
+https://easychair.org/conferences/?conf=cats23
+
+
+ 
 
 
 Group Number:
